@@ -1,3 +1,43 @@
+# Product Management System
+
+This is a **Product Management System** built using Laravel. The application allows users to manage products, including creating, editing, searching, and deleting products. The project focuses on simplicity and provides a clean, user-friendly interface.
+
+---
+
+## Features
+
+- **Product CRUD Operations**:
+  - Create, edit, delete, and view products.
+- **Search Functionality**:
+  - Search products by name, category, quantity, price, or description.
+- **Pagination**:
+  - Manage large datasets with pagination.
+- **Real-time Alerts**:
+  - Uses SweetAlert for success and confirmation messages.
+- **Responsive Design**:
+  - Optimized for both desktop and mobile devices.
+ 
+  - ## Screenshots
+
+### Product List View
+
+![Product List](public/images/shop.png)
+
+## Demo Video
+
+Check out the project demo on YouTube: [Product Management System Demo](https://www.youtube.com/watch?v=QRH8ZSvtpg0)
+
+## Technologies Used
+
+- **Backend**: Laravel 8
+- **Frontend**: Blade templates, CSS, JavaScript
+- **Database**: MySQL
+- **Libraries/Tools**:
+  - [SweetAlert](https://sweetalert.js.org/) for alerts
+  - Font Awesome for icons
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
